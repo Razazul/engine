@@ -4,7 +4,15 @@
 }
 .header{
     height: 60px;
-    background-color: lightgrey;
+    background-color: #fff;
+    color: #666;
+
+}
+.btn, .btn-default{
+    border: none;
+    margin-left: 10px;
+    margin-top: 15px;
+    display: inline-block;
 }
 .main{
     position: relative;
