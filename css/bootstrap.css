@@ -5,6 +5,13 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+.text-warning{
+color: yellow;
+}
+.list-group.list-group-links.list-group-item.fa-circle {
+  float: right;
+  font-size: 14px;
+}
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
